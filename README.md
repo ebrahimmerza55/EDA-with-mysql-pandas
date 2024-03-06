@@ -27,3 +27,11 @@ A detailed description of the dataset can be found on [the city of Chicago's web
 *   **Per Capita Income** (`per_capita_income_`): Community Area per capita income is estimated as the sum of tract-level aggragate incomes divided by the total population
 
 *   **Hardship Index** (`hardship_index`): Score that incorporates each of the six selected socioeconomic indicators
+
+So we gonna maka some analysis using MySQL and Pandas to answer some questions:
+* How many rows are in the dataset?
+* How many community areas in Chicago have a hardship index greater than 50.0?
+* What is the maximum value of hardship index in this dataset?
+* Which community area which has the highest hardship index?
+* Which Chicago community areas have per-capita incomes greater than $60,000?
+* Create a scatter plot using the variables per_capita_income_ and hardship_index. Explain the correlation between the two variable
