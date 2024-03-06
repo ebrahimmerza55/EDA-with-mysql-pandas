@@ -28,7 +28,7 @@ A detailed description of the dataset can be found on [the city of Chicago's web
 
 *   **Hardship Index** (`hardship_index`): Score that incorporates each of the six selected socioeconomic indicators
 
-So we gonna maka some analysis using MySQL and Pandas to answer some questions:
+So we gonna make some analysis using MySQL and Pandas to answer some questions:
 * How many rows are in the dataset?
 * How many community areas in Chicago have a hardship index greater than 50.0?
 * What is the maximum value of hardship index in this dataset?
