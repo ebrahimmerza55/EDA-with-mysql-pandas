@@ -1,5 +1,6 @@
 # EDA-with-mysql-pandas
 Exploratory Data Analysis using mysql &amp; pandas.
+## About Dataset 
 ## Selected Socioeconomic Indicators in Chicago
 
 The city of Chicago released a dataset of socioeconomic data to the Chicago City Portal.
